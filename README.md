@@ -5,6 +5,15 @@
 - [node-geohash](https://github.com/sunng87/node-geohash)
 - [Firestore](https://firebase.google.com/docs/firestore)
 
+### Checklist
+- Grid with dinamyc items **OK**
+- Dynamic background color **OK**
+- Crop is identified by its name and color **OK**
+- Mock information for the plots **OK**
+- Interactive (hover) grid **OK**
+- Scrollable grid **OK**
+
+
 ### Tasks
 - Land is bought in plots: a plot is a n-by-m rectangular section of land that is n cells (or miles) wide and m cells (or miles) high, and plots are identified by the geohash of its northwest corner
 - Farmers can buy and own one or more plots, and their plots don't have to be contiguous or anything like that
