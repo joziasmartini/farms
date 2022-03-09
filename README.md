@@ -1,10 +1,12 @@
 # farms
-A code challenge made in two hours.
+A code challenge done in two hours.
 
 ### Technologies
+- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 - [SASS](https://sass-lang.com/)
 - [Vue 2](https://vuejs.org/)
 - [Firestore](https://firebase.google.com/docs/firestore)
+- [ESLint](https://eslint.org/)
 
 ### Checklist
 - Grid with dinamyc items **OK**
